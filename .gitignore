@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Collected spam CSV (optional, if you don't want it in Git)
+collected_spam.csv
+
+# Model and vectorizer files (optional)
+spam_model.joblib
+vectorizer.joblib
